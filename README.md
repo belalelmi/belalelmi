@@ -1,7 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/belalelmi/belalelmi/main/assets/system-terminal.gif"
-    width="700"
+    src="https://raw.githubusercontent.com/belalelmi/belalelmi/main/assets/dino.gif"
   />
 </p>
 
